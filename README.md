@@ -16,14 +16,12 @@ Lower Manhattan
 
 ##### Asotria store is leding with a revenue of $22 912 (i.e. 34%) out of all the 3 main stores. 
 
-
 The Sales time have been categorized as follows:
 1. Morning
 2. Afternoon
 3. Evening
 4. Night
-   
-##### The time backets have been listed based on the highest to the lowest 
+   ##### The time backets have been listed based on the highest to the lowest. Revenue has been steadily increasing from September to Current date
 
 # <img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/a7994424-4271-4e94-a925-c63312800d47" />Tools & Technologies
 The following are the tools and technologies i used into exploring data analysis concerpts:
