@@ -10,9 +10,9 @@ The Products That Generate The Most Revenue
 3. Bakery @ 10 106    (15%)
 
 ## Prodcts are sold at these 3 main store location 
-Astoria
-Hell's Kitchen
-Lower Manhattan
+1. Astoria
+2. Hell's Kitchen
+3. Lower Manhattan
 
 ##### Asotria store is leding with a revenue of $22 912 (i.e. 34%) out of all the 3 main stores. 
 
