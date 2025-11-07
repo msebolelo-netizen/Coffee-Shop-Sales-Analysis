@@ -1,4 +1,4 @@
-# <img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/4201f98e-0d38-4fb7-87d1-7f0cace68aa0" />Coffee-Shop-Sales-Analysis
+# <img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/4201f98e-0d38-4fb7-87d1-7f0cace68aa0" />Sales-Analysis
 This repository contains a detailed sales analysis from 3 locations stores and the data is pulled from 01 May 2023 to current date.  
 
 The goal is to o extract actionable insights from historical data gathered and then prepare a presentation to assist the CEO in
