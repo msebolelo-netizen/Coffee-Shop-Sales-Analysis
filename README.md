@@ -1,7 +1,10 @@
 # <img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/4201f98e-0d38-4fb7-87d1-7f0cace68aa0" />Coffee-Shop-Sales-Analysis
-This repository contains a detailed sales analysis for a coffee shop  with 3 locations over the period of 3 months (i.e Sep 2025 to Nov 2025) from the BrightLight Data Analytics Learning.
+This repository contains a detailed sales analysis from 3 locations stores and the data is pulled from 01 May 2023 to current date.  
 
-The goal is to understand revenue trends based on each store location and for product sold.
+The goal is to o extract actionable insights from historical data gathered and then prepare a presentation to assist the CEO in
+decision-making into growing the company's revenue and improve performance of the company. 
+
+All the investigations and learning of the data analytics has been done from the BrightLight Data Analytics Learning.
 
 # <img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/4a5d525b-29b1-473b-951f-cb230ef85a7c" />Summary of Findings
 The Products That Generate The Most Revenue
